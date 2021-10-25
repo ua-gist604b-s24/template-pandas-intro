@@ -33,4 +33,11 @@ Follow the following tutorial and submit a screenshot named `lesson5.png` showin
 
 
 ### Deliverable
-You should have 5 screenshots. Include those in a branch named `pandas` and submit a `Pull request` to merge with `master`. Do not merge!
+You should have 5 screenshots:
+- `lesson1.png`
+- `lesson2.png`
+- `lesson3.png`
+- `lesson4.png`
+- `lesson5.png`
+ 
+Include those in a branch named `pandas` and submit a `Pull request` to merge with `master`. Do not merge!
