@@ -1,0 +1,71 @@
+name: Check for required files
+
+on:
+  push:
+    branches: [ assignment ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Check 1 files
+        id: check_1_files
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "lesson1.png"
+
+      - name: Required files exist
+        if: steps.check_1_files.outputs.files_exists != 'true'
+        run: |
+          echo Required file, 'lesson1.png', is missing
+          exit 1
+          
+      - name: Check 2 files
+        id: check_2_files
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "lesson2.png"
+
+      - name: Required files exist
+        if: steps.check_2_files.outputs.files_exists != 'true'
+        run: |
+          echo Required file, 'lesson2.png', is missing
+          exit 1
+          
+      - name: Check 3 files
+        id: check_3_files
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "lesson3.png"
+
+      - name: Required files exist
+        if: steps.check_3_files.outputs.files_exists != 'true'
+        run: |
+          echo Required file, 'lesson3.png', is missing
+          exit 1
+      - name: Check 4 files
+        id: check_4_files
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "lesson4.png"
+
+      - name: Required files exist
+        if: steps.check_4_files.outputs.files_exists != 'true'
+        run: |
+          echo Required file, 'lesson4.png', is missing
+          exit 1
+          
+      - name: Check 5 files
+        id: check_5_files
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "lesson5.png"
+
+      - name: Required files exist
+        if: steps.check_5_files.outputs.files_exists != 'true'
+        run: |
+          echo Required file, 'lesson5.png', is missing
+          exit 1
+          
