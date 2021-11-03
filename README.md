@@ -13,23 +13,23 @@ For this assignment we will be following lessons Hernan Rojas provided for us at
 
 #### Lesson 1
 Follow the following tutorial and submit a screenshot named `lesson1.png` showing your spyder desktop at the last step. It should show the graph and the most popular name.
-- https://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb
+- https://nbviewer.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb
 
 #### Lesson 2
 Follow the following tutorial and submit a screenshot named `lesson2.png` showing your spyder desktop at the last step. It should show a table of names sorted by births and the associated graph.
-- http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/02%20-%20Lesson.ipynb
+- https://nbviewer.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/02%20-%20Lesson.ipynb
 
 #### Lesson 3
 Follow the following tutorial and submit a screenshot named `lesson3.png` showing your spyder desktop at the last step. It should show a figure containing 5 graphs.
-- http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/02%30-%20Lesson.ipynb
+- https://nbviewer.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/03%20-%20Lesson.ipynb
 
 #### Lesson 4
 Follow the following tutorial and submit a screenshot named `lesson4.png` showing your spyder desktop at the last step. It should show the last 5 records ot `df`.
-- http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/02%40-%20Lesson.ipynb
+- https://nbviewer.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/04%20-%20Lesson.ipynb
 
 #### Lesson 5
 Follow the following tutorial and submit a screenshot named `lesson5.png` showing your spyder desktop at the last step. Show the output of letterone without the index.
-- http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/02%60-%20Lesson.ipynb
+- https://nbviewer.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/05%20-%20Lesson.ipynb
 
 
 ### Deliverable
