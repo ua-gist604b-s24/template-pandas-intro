@@ -20,7 +20,7 @@ Follow the following tutorial and submit a screenshot named `lesson2.png` showin
 - https://nbviewer.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/02%20-%20Lesson.ipynb
 
 #### Lesson 3
-Follow the following tutorial and submit a screenshot named `lesson3.png` showing your spyder desktop at the last step. It should show a figure containing the `TX` graphs.
+Follow the following tutorial and submit a screenshot named `lesson3.png` showing your spyder desktop at the last step. It should show a figure containing the `TX` graph.
 - https://nbviewer.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/03%20-%20Lesson.ipynb
 
 #### Lesson 4
