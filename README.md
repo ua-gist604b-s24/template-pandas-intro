@@ -11,6 +11,13 @@ For this assignment we will be following lessons Hernan Rojas provided for us at
 
 ### Lessons
 
+_Note that these lessons are in context of a jupyter notebook, wherein plots and maps can be rendered inline with the code. Since, for this
+assignment we are using Spyder, we need to ignore the directives about adding this line:
+``` 
+# Do not include this line when plotting in spyder
+%matplotlib inline
+```
+
 #### Lesson 1
 Follow the following tutorial and submit a screenshot named `lesson1.png` showing your spyder desktop at the last step. It should show the graph and the most popular name.
 - https://nbviewer.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb
