@@ -78,7 +78,7 @@ Follow the 02 - Lesson.ipynb tutorial and take a screenshot (`lesson2.png') show
 Follow the 03 - Lesson.ipynb tutorial and take a screenshot (`lesson3.png') showing your notebook at the last step. It should show a figure containing the graph showing all 4 states.
 
 #### Lesson 4
-Follow the 04 - Lesson.ipynb tutorial and take a screenshot (`lesson4.png') showing your notebook at the last step. It should show the last 5 records ot `df`.
+Follow the 04 - Lesson.ipynb tutorial and take a screenshot (`lesson4.png`) showing your notebook at the last step. It should show the last 5 records of `df`.
 
 #### Lesson 5
 Follow the 05 - Lesson.ipynb tutorial and take a screenshot (`lesson5.png') showing your notebook at the last step. Show the output of letterone without the index.
