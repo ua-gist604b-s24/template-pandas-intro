@@ -31,6 +31,12 @@ This will clone the hrojas repo to this codespace workspace. You will see a new 
 
 ![git-clone-learn-pandas.png](./media/git-clone-learn-pandas.png)
 
+### Install missing libraries
+Some of the libraries you will use are not installed by default. Type the following in the `Terminal` window:
+```
+pip install openpyxl
+```
+
 ### Open Lesson 1 Jupyter Notebook
 
 Expand the new directory to view the lessons, then open the file named `01 - Lesson.ipynb` by double clicking the filename in the `Explorer` panel.
