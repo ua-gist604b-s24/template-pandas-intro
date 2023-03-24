@@ -19,8 +19,8 @@ This assignment will be run through GitHub's Codespace.
 
 ## Directions
 ### Get started with a new codespace on a new branch
-- Create a new branch named `assignment`
-- Click on `Code` and `Create codespace on `assignment`
+- Create a new branch named `pandas`
+- Click on `Code` and `Create codespace on `pandas`
 
 ### Clone the hrojas repo about learning pandas
 In the terminal window, type
